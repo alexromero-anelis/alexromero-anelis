@@ -3,10 +3,10 @@
 ### Sobre mí
 -------------------
 <img align="right" alt="Vegeta Workout" src="https://github.com/user-attachments/assets/ca240f0a-c164-4add-984b-03305b69fd8d" width="300" height="200" />
-Q
+
 - 💻 Actualmente soy Desarrollador Web en Anelis Network
 - 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma
-- 🌱 Me estoy especializando en JavaScript y Python.
+- 🌱 Me estoy especializando en Ciberseguridad (cuando hay tiempo).
 - 🔜 Futuro Full-Stack
 - 📈 Amante de lograr mis objetivos
 - 🎯 Focused.
@@ -45,7 +45,7 @@ Q
 ### Estadísticas GitHub
 -------------------
 <p align="center">
-  <a href="https://github.com/aromerocollados/github-readme-streak-stats">
+  <a href="https://github.com/alexromero-anelis/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromerocollados#version3"/>
   </a>
 </p>
