@@ -4,7 +4,7 @@
 -------------------
 <img align="right" alt="Vegeta Workout" src="https://github.com/user-attachments/assets/ca240f0a-c164-4add-984b-03305b69fd8d" width="300" height="200" />
 
-- 💻 Actualmente soy Desarrollador Web en Anelis Network
+- 💻 Desarrollador Web en Anelis Network
 - 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma
 - 🌱 Me estoy especializando en Ciberseguridad (cuando hay tiempo).
 - 🔜 Futuro Full-Stack
